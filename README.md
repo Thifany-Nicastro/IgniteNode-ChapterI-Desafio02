@@ -1,4 +1,4 @@
-# Desafio 02 - Trabalhando com middlewares :rocket: :purple_heart:
+#  Chapter I - Desafio 02: Trabalhando com middlewares :rocket: :purple_heart:
 
 ## :dart: Objetivo
 
