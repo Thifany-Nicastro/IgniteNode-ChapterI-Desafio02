@@ -29,10 +29,10 @@ Adicionar o tipo de plano do usuário no desafio anterior por meio de middleware
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Thifany-Nicastro/IgniteNode-Desafio02.git
+$ git clone https://github.com/Thifany-Nicastro/IgniteNode-ChapterI-Desafio02.git
 
 # Entre na pasta
-$ cd IgniteNode-Desafio02
+$ cd IgniteNode-ChapterI-Desafio02
 
 # Instale as dependências
 $ yarn ou yarn install
